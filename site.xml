@@ -3,7 +3,7 @@
    <description name="DiscoEclipseUpdateSite">
       The is the update site for the DiscoEclipse plugin &amp; feature
    </description>
-   <feature url="features/DiscoEclipseFeature_1.0.0.202105181346.jar" id="DiscoEclipseFeature" version="1.0.0.202105181346">
+   <feature url="features/DiscoEclipseFeature_1.0.0.202105191410.jar" id="DiscoEclipseFeature" version="1.0.0.202105191410">
       <category name="DiscoEclipse"/>
    </feature>
    <category-def name="DiscoEclipse" label="DiscoEclipse"/>
